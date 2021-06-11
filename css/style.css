@@ -1,12 +1,13 @@
 body{
     font-family: 'Roboto', sans-serif;
     font-size: 1.5rem;
-    color:#ffffff
+    color:#ffffff;
+    background-color:#212529;
 }
 main{
     margin: 10vh;
 }
 p, h1{
     background-color: #3e3f3e;
-    padding: 1vh;
+    padding: 5vh;
 }
